@@ -35,5 +35,5 @@ O sistema foi inteiramente construído utilizando o Microsoft Excel e conta com 
 *   `README.md` - Documentação técnica do projeto.
 
 ---
-Desenvolvido por [Seu Nome] durante a Formação DIO.
+Desenvolvido por Luiz Suto durante a Formação DIO.
 
